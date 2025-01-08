@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements.  I had the correct configuration and imports, but styles weren't updating.  After many checks I found that the problem stemmed from a conflict with another CSS framework or custom styles that were overriding Tailwind's default styles. The order of CSS imports mattered.
